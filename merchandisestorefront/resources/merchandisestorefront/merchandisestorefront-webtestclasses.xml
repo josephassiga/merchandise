@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testclasses>
+  <merchandisestorefront>
+    <testclass>de.hybris.merchandise.storefront.filters.AbstractAddOnFilterTest</testclass>
+    <testclass>de.hybris.merchandise.storefront.controllers.cms.CategoryFeatureComponentControllerTest</testclass>
+    <testclass>de.hybris.merchandise.storefront.filters.CustomerLocationRestorationFilterTest</testclass>
+    <testclass>de.hybris.merchandise.storefront.filters.AnonymousCheckoutFilterTest</testclass>
+    <testclass>de.hybris.merchandise.storefront.filters.AcceleratorAddOnFilterTest</testclass>
+    <testclass>de.hybris.merchandise.storefront.web.view.UiExperienceViewResolverTest</testclass>
+    <testclass>de.hybris.merchandise.storefront.security.cookie.EnhancedCookieGeneratorTest</testclass>
+    <testclass>de.hybris.merchandise.storefront.controllers.cms.PurchasedCategorySuggestionComponentControllerTest</testclass>
+    <testclass>de.hybris.merchandise.storefront.interceptors.i18n.SetLanguageBeforeControllerHandlerTest</testclass>
+    <testclass>de.hybris.merchandise.storefront.filters.CommonResourcesAddOnFilterTest</testclass>
+    <testclass>de.hybris.merchandise.storefront.controllers.cms.ProductCarouselComponentControllerTest</testclass>
+    <testclass>de.hybris.merchandise.storefront.controllers.cms.NavigationBarComponentControllerTest</testclass>
+    <testclass>de.hybris.merchandise.storefront.security.impl.CartUsurpProtectionUnitTest</testclass>
+    <testclass>de.hybris.merchandise.storefront.security.impl.WebHttpSessionRequestCacheUnitTest</testclass>
+    <testclass>de.hybris.merchandise.storefront.filters.TagResourcesAddOnFilterTest</testclass>
+    <testclass>de.hybris.merchandise.storefront.interceptors.CSRFHandlerInterceptorTest</testclass>
+    <testclass>de.hybris.merchandise.storefront.controllers.pages.SearchPageControllerUnitTest</testclass>
+    <testclass>de.hybris.merchandise.storefront.controllers.cms.ProductReferencesComponentControllerTest</testclass>
+    <testclass>de.hybris.merchandise.storefront.controllers.cms.MiniCartComponentControllerTest</testclass>
+    <testclass>de.hybris.merchandise.storefront.controllers.cms.DefaultCMSComponentControllerTest</testclass>
+    <testclass>de.hybris.merchandise.storefront.controllers.pages.CartPageControllerTest</testclass>
+    <testclass>de.hybris.merchandise.storefront.controllers.cms.ProductFeatureComponentControllerTest</testclass>
+    <testclass>de.hybris.merchandise.storefront.controllers.cms.CartSuggestionComponentControllerTest</testclass>
+  </merchandisestorefront>
+</testclasses>
